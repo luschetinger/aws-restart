@@ -1,0 +1,2 @@
+# aws-restart
+aws restart
